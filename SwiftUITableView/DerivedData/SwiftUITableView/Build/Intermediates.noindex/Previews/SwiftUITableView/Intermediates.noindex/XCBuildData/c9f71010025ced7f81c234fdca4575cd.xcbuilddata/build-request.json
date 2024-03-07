@@ -1,0 +1,57 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "1073923e28a975221ee6c44272cc79b6aa1b6d2e9c82e4ab53deaec325af096f"
+    }
+  ],
+  "containerPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUITableView/SwiftUITableView.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUITableView/DerivedData/SwiftUITableView/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUITableView/DerivedData/SwiftUITableView/Build/Products",
+      "derivedDataPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUITableView/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUITableView/DerivedData/SwiftUITableView/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUITableView/DerivedData/SwiftUITableView/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUITableView/DerivedData/SwiftUITableView/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/rajnikanthole/swiftuiTableView/SwiftUITableView/DerivedData/SwiftUITableView/Build/Intermediates.noindex/Previews/SwiftUITableView/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/rajnikanthole/swiftuiTableView/SwiftUITableView/DerivedData/SwiftUITableView/Build/Intermediates.noindex/Previews/SwiftUITableView/Intermediates.noindex",
+          "SYMROOT" : "/Users/rajnikanthole/swiftuiTableView/SwiftUITableView/DerivedData/SwiftUITableView/Build/Intermediates.noindex/Previews/SwiftUITableView/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
