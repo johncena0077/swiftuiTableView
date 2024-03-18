@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9D8B9B6D1E5E930B9AD4D7205D0078F5664F62D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9D8B9B6D1E5E930B9AD4D7205D0078F5664F62D3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DEB69976-D9F5-4D21-AA37-A40C67FAF9B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9D8B9B6D1E5E930B9AD4D7205D0078F5664F62D3" : "swiftuiTableView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftUIExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftUIExample\/SwiftUIExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/johncena0077\/swiftuiTableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9D8B9B6D1E5E930B9AD4D7205D0078F5664F62D3"
+    }
+  ]
+}

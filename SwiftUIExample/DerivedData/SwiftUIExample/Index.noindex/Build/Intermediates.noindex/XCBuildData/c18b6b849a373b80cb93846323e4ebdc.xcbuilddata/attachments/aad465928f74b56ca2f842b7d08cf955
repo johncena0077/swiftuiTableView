@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/Build/Intermediates.noindex/SwiftUIExample.build/Debug-iphoneos/SwiftUIExample.build/Objects-normal/arm64/SwiftUIExample-master.d",
+    "diagnostics" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/Build/Intermediates.noindex/SwiftUIExample.build/Debug-iphoneos/SwiftUIExample.build/Objects-normal/arm64/SwiftUIExample-master.dia",
+    "emit-module-dependencies" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/Build/Intermediates.noindex/SwiftUIExample.build/Debug-iphoneos/SwiftUIExample.build/Objects-normal/arm64/SwiftUIExample-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/Build/Intermediates.noindex/SwiftUIExample.build/Debug-iphoneos/SwiftUIExample.build/Objects-normal/arm64/SwiftUIExample-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/Build/Intermediates.noindex/SwiftUIExample.build/Debug-iphoneos/SwiftUIExample.build/Objects-normal/arm64/SwiftUIExample-master.swiftdeps"
+  },
+  "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/Build/Intermediates.noindex/SwiftUIExample.build/Debug-iphoneos/SwiftUIExample.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/SwiftUIExample/ContentView.swift" : {
+
+  },
+  "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/SwiftUIExample/SwiftUIExampleApp.swift" : {
+
+  }
+}

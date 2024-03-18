@@ -1,0 +1,105 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c527e7809382358f4e1963e8fa18c2e9c396987453a95d5d9bbb7334989c343f",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Products",
+          "derivedDataPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Intermediates.noindex/Previews/SwiftUIExample/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Intermediates.noindex/Previews/SwiftUIExample/Intermediates.noindex",
+              "SYMROOT" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Intermediates.noindex/Previews/SwiftUIExample/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "F36DF5CA-F931-484E-AA24-855B7BD8171E",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/SwiftUIExample.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Products",
+      "derivedDataPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "F36DF5CA-F931-484E-AA24-855B7BD8171E",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

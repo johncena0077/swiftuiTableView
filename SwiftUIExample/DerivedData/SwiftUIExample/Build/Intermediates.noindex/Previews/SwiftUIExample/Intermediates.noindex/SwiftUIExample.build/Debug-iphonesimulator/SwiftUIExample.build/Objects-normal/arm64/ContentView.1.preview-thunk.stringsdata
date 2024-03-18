@@ -1,0 +1,12 @@
+{
+  "source": "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Intermediates.noindex/Previews/SwiftUIExample/Intermediates.noindex/SwiftUIExample.build/Debug-iphonesimulator/SwiftUIExample.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

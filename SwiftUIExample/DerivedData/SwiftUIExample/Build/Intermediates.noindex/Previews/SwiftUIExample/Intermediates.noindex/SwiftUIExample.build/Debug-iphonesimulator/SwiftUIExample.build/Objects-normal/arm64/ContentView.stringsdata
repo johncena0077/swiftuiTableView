@@ -1,0 +1,12 @@
+{
+  "source": "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/SwiftUIExample/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

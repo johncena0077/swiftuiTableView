@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c527e7809382358f4e1963e8fa18c2e9c396987453a95d5d9bbb7334989c343f"
+    }
+  ],
+  "containerPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/SwiftUIExample.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Build/Products",
+      "pchPath" : "/Users/rajnikanthole/swiftuiTableView/SwiftUIExample/DerivedData/SwiftUIExample/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

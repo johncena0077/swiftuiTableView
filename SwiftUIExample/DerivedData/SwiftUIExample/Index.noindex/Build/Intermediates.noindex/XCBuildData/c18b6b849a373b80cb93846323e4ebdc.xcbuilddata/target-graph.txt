@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'SwiftUIExample' in project 'SwiftUIExample' (no dependencies)
+Target 'SwiftUIExample' in project 'SwiftUIExample' (no dependencies)

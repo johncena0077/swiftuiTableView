@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'SwiftUITableView' in project 'SwiftUITableView' (no dependencies)
-Target 'SwiftUITableView' in project 'SwiftUITableView' (no dependencies)
